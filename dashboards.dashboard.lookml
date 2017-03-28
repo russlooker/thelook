@@ -20,9 +20,9 @@
   filters:
 
   - name: date
-    title: "Date"
+    title: 'Date'
     type: date_filter
-    default_value: Last 90 Days
+    default_value: 'Last 90 Days'
 
   - name: state
     title: 'State / Region'
