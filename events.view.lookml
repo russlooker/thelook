@@ -1,4 +1,5 @@
 - view: events
+  view_label: User event data
   fields:
 
   - dimension: id
